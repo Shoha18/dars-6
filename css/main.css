@@ -1,0 +1,103 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1340px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+header{
+
+}
+.hero{
+    background: #F4F5F8;
+  padding-top: 18px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.hero-blok1{
+   width: 119px;
+   margin-left: 40px;
+}
+.hero-blok2{
+ min-width: 455px;
+ margin-right: 40px;
+}
+.hero-blok2-lest{
+    /* max-width: 400px; */
+    display: flex;
+    gap: 32px;
+
+   
+}
+.hero-blok2-link{
+    
+font-family: Golos;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: #757575;
+
+}
+
+
+.hero-nav{
+    padding-top: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-nav-star{
+    margin-left: 40px;
+}
+.hero-cords{
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.hero-nav-link{
+
+    font-family: Golos;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #161616;
+    
+    
+    
+    
+    padding: 12px 20px 12px 20px;
+    border-radius: 8px;
+    
+    background: #F4F5F8;
+    
+}
+.hero-cords-but{
+    cursor: pointer;
+
+    font-family: Golos;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+   
+
+ 
+padding: 12px 20px 12px 20px;
+border-radius: 8px;
+background: #202226;
+color: #fff;
+}
