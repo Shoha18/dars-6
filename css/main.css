@@ -23,7 +23,7 @@ header{
   padding-top: 18px;
     display: flex;
     justify-content: space-around;
-
+ 
 
 }
 .hero-blok1{
@@ -56,6 +56,7 @@ color: #757575;
 
 .hero-nav{
     padding-top: 28px;
+    padding-bottom: 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -100,4 +101,132 @@ padding: 12px 20px 12px 20px;
 border-radius: 8px;
 background: #202226;
 color: #fff;
+}
+
+/* main */
+.fix-cords{
+    display: flex;
+    background: #202226;
+   justify-content: space-between;
+    border-radius: 16px;
+    
+    width: 1200px;
+  
+   
+    
+}
+.fix-cord{
+    /* max-width: 552px; */
+    padding-top: 40px;
+    /* margin: 0 40px; */
+}
+.fix-coed-titel{
+padding-bottom: 32px;
+
+
+font-family: Golos;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+color: #fff;
+text-align: left;
+
+}
+.fix-cord-img{
+    display: block;
+    background-color: #fff;
+ 
+border-radius: 12px;
+
+}
+.fix-cord-item{
+
+
+
+font-family: Golos;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+color: #9F9F9F;
+
+text-align: left;
+
+}
+.span1{
+    padding-left: 215px;
+}
+.fix-cord-span{
+    font-family: Golos;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #9F9F9F;
+    
+padding-left: 305px;
+}
+.fix-chiziq{
+    width: 451px;
+margin-top: 12px;
+
+border: 1px solid #36383C;
+
+}
+.chiziqcha{
+    margin-bottom: 88px;
+}
+.fix-coed-span2{
+
+font-family: Golos;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.01em;
+color: #fff;
+
+
+
+}
+.fix-chiziq2{
+    margin-top: 32px;
+    margin-bottom: 40px;
+    width: 556px;
+    border: 1px solid #36383C;
+
+
+
+}
+button{
+
+    border: none;
+}
+.fix-cord-but{
+   
+    font-family: Golos;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #161616;
+
+
+padding: 12px 20px 12px 20px;
+border-radius: 8px;
+margin-bottom: 40px;
+
+}
+.fix-kk{
+    position: relative;
+}
+.kk{
+    position: absolute;
+    top: 460px;
+    left: 400px;
+}
+
+.fix-cord-link-img{
+    width: 44px;
+    height: 44px;
+    border-radius: 8px;
+    background-color: #fff;
+ 
+
 }
